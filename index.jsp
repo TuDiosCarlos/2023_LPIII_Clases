@@ -2,6 +2,11 @@
 	<head>
 	</head>
 	<body>
-		Bienvenidos.... al sistem
+		Bienvenidos.... al sistema
+		Carlos Curo
+		
+		<form>
+			<input type="text" name="Carlos"/>
+		</form>
 	</body>
 </html>
